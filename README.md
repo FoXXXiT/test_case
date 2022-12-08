@@ -22,3 +22,5 @@ composer install
 
 <strong>Then you can access resource through</strong>
 [http://localhost](http://localhost/)
+
+SQL TASKS in file: [BooksController.php](app/Http/Controllers/BooksController.php)
